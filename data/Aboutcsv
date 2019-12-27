@@ -1,0 +1,21 @@
+About the variables in the csv
+603 records, 15 variables
+1. Song no
+2. Song Title
+3. Artist name
+4. Genre
+5. Year of release
+6. Beats per minute
+7. Energy
+8. Danceability
+9. Loudness
+10. Liveness
+11. Valence
+12. Duration
+13. Acousticness
+14. Speechiness
+15. Popularity
+
+
+
+Dataset taken from Kaggle.com
